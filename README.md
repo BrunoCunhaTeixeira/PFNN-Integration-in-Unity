@@ -13,7 +13,11 @@ You can find the implementation of the PFNN in Unity by Starke here:
 https://github.com/sebastianstarke/AI4Animation
 
 ## Demo
+<img src="https://github.com/Nachbarino/PFNN-Integration-in-Unity/blob/main/img/PAndS.png" alt="drawing" width="400"/>
 
+Imgur-Video 1: https://imgur.com/a/HpZIF8j
+
+Imgur-Video 2: https://imgur.com/a/lOVyobC
 
 # Controlls
 As already mentioned, there are two other control options available besides the keyboard. The first includes control via a gamepad and the second via waypoints. Only one control option can be active at a time, which can be selected in the "Bio Animation_Original" script in the Unity editor.
