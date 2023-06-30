@@ -1,7 +1,7 @@
 # PFNN-Integration-in-Unity
 As part of my master's thesis, I integrated the Phase-Functioned Neural Network (PFNN) for Character Control by Holden et al. into Unity. This implementation is based on the one by Sebastian Starke and extends it by the calculation of the joint angles, the integration of a mesh and new controll options.
 
-I would like to thank Daniel Holden for his interesting work and the publication of this. Also thanks to Sebastian Starke, whose project I used as a basis for my thesis.
+I would like to thank Daniel Holden for his interesting work and the publication of his paper and articles. Also thanks to Sebastian Starke, whose project I used as a basis for my thesis.
 
 
 You can find the original PFNN Paper by Holden here: 
@@ -18,6 +18,16 @@ https://github.com/sebastianstarke/AI4Animation
 Imgur-Video 1: https://imgur.com/a/HpZIF8j
 
 Imgur-Video 2: https://imgur.com/a/lOVyobC
+
+## Installation
+
+1. Navigate to the Scenes folder and open a scene.
+
+2. Navigate to the inspector of the "PFNN" Script which is attached to the character Gameobject.
+
+3. Click on the Button "Store Parameters" and wait 10 - 20 sec.
+
+4. Now you can start the scene!
 
 # Controlls
 As already mentioned, there are two other control options available besides the keyboard. The first includes control via a gamepad and the second via waypoints. Only one control option can be active at a time, which can be selected in the "Bio Animation_Original" script in the Unity editor.
